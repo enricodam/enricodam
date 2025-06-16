@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @enricodam
 - 👀 I’m interested in biological psychiatry, genetics, and neuroimaging
-- 🌱 I’m currently learning R
 
 <!---
 enricodam/enricodam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
